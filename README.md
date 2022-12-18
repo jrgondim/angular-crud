@@ -1,6 +1,6 @@
 <h1>Sistema CRUD em Angular</h1>
 
-Usando Jsonserver
+Usando JSON Server
 
 Dispoínel em:
 https://drive.google.com/drive/folders/1ZAnXYNeWvUCuj_SYgPAztgM09A6hqrHD?usp=sharing
