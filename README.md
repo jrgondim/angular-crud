@@ -2,6 +2,8 @@
 
 Usando JSON Server
 
+> Status do projeto : Em desenvolvimento | Concluído <ok>
+
 Dispoínel em:
 https://drive.google.com/drive/folders/1ZAnXYNeWvUCuj_SYgPAztgM09A6hqrHD?usp=sharing
 
