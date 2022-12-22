@@ -4,7 +4,7 @@ Usando JSON Server
 
 > Status do projeto : Em desenvolvimento | Concluído <ok>
 
-Disponínel em:
+Disponível em:
 https://drive.google.com/drive/folders/1ZAnXYNeWvUCuj_SYgPAztgM09A6hqrHD?usp=sharing
 
 Para rodar o json-server
