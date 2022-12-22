@@ -1,0 +1,16 @@
+<section>
+    <header>
+        <h2>Listagem de clientes</h2>
+        <button routerLink="/criarCliente" >Novo cliente</button>
+    </header>
+    <div *ngIf="listaClientes.length > 0, else semDados">
+        <div *ngFor="let cliente of listaClientes">
+            <app-cliente [cliente]="cliente"></app-cliente>
+        </div>        
+    </div>
+</section>
+<ng-template #semDados>
+    <div>
+        Sem dados para serem exibidos!
+    </div>
+</ng-template>

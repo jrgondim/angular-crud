@@ -1,0 +1,13 @@
+  <table>
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width:400px">{{ cliente.name}}</td>
+        <td style="width:300px">{{ cliente.email}}</td>
+        <td style="width:100px">{{ cliente.phoneNumber}}</td>
+        <td><button routerLink="/clientes/excluirCliente/{{cliente.id}}">Excluir</button></td>
+        <td><button routerLink="/clientes/editarCliente/{{cliente.id}}">Editar</button></td> 
+      </tr>     
+    </tbody>
+  </table>  

@@ -1,0 +1,24 @@
+<section>
+    <header>
+        <h2>Novo cliente</h2>        
+    </header>
+    <form>
+        <label for="name">Nome do Cliente</label>
+        <input type="text" name="name" placeholder="Informe o nome do cliente" [(ngModel)]="cliente.name">
+        <br>
+
+        <label for="email">E-mail</label>
+        <input type="text" name="email" [(ngModel)]="cliente.email">
+        <br>
+        <label for="phoneNumber">Telefone</label>
+        <input type="text" name="phoneNumber" placeholder="Informe o telefone do cliente" [(ngModel)]="cliente.phoneNumber">
+        <br>
+        <label for="birthday">Data de Nascimento</label>
+        <input type="text" name="birthday" placeholder="Data de nascimento" [(ngModel)]="cliente.birthDay">
+        <div>
+            <button (click)="criarCliente()">Salvar</button>
+            <button (click)="botaoCancelar()" routerLink="/listarClientes">Cancelar</button>
+        </div>
+    </form>
+
+</section>
