@@ -1,8 +1,7 @@
-main {
+header {
     font-family: 'Roboto', sans-serif;
-    background: #fff;
     background-color: #fff;
-    background-size: cover;
-    min-height: 85vh;
-    border: 30px;
+    background-size: #fff;
+    min-height: 20px;
+    border: 0px 0px 0px 0px;
 }
