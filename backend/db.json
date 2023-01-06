@@ -1,18 +1,3 @@
 {
-  "clientes": [
-    {
-      "id": 1,
-      "name": "Maria",
-      "email": "ttttt",
-      "phoneNumber": "888888",
-      "birthDay": ""
-    },
-    {
-      "id": 2,
-      "name": "Marina Silva",
-      "email": "e-mail.com",
-      "phoneNumber": "32 111111",
-      "birthDay": "11"
-    }
-  ]
+  "clientes": []
 }
